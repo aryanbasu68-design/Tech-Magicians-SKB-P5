@@ -116,3 +116,7 @@ Swara Nimbalkar | Prachi Nandekar | Ujwal Dhargave
 
 ---
 **Sankalp Bharat 2026 | SVPCET Nagpur | SKB_P5**
+## 🌐 Live Demo
+
+Check out the live application here:  
+👉 https://geo-plastic-frontend.preview.emergentagent.com/
